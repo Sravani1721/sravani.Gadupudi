@@ -1,0 +1,26 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/delicious-breakfast-meal-composition_23-2148878834.jpg?w=740&t=st=1668684631~exp=1668685231~hmac=4cb953e9a88f0555310c34083a22f4faf1bf96585aa2fb8e8d3142b5c833fdde");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.layoutcard{
+    background-color: bisque;
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color:black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+
+}
+
+
+
